@@ -1,0 +1,12 @@
+2021-11-17T22:34:14.579+0800	[31mERROR[0m	api</v1/cs/configs>,method:<GET>, params:<{"dataId":"inventory-srv.json","group":"dev","tenant":"dc776061-c7a5-4b75-8a26-07cc04d085f3"}>, call domain error:<[404] config data not exist
+> , result:<config data not exist
+>
+2021-11-17T22:34:14.583+0800	[31mERROR[0m	api</v1/cs/configs>,method:<GET>, params:<{"dataId":"inventory-srv.json","group":"dev","tenant":"dc776061-c7a5-4b75-8a26-07cc04d085f3"}>, call domain error:<[404] config data not exist
+> , result:<config data not exist
+>
+2021-11-17T22:34:14.583+0800	[31mERROR[0m	api</v1/cs/configs>,method:<GET>, params:<{"dataId":"inventory-srv.json","group":"dev","tenant":"dc776061-c7a5-4b75-8a26-07cc04d085f3"}>, call domain error:<[404] config data not exist
+> , result:<config data not exist
+>
+2021-11-17T22:34:14.584+0800	[34mINFO[0m	get config from server error:[404] config data not exist
+ 
+2021-11-17T22:34:14.609+0800	[33mWARN[0m	[client.GetConfig] config not found, dataId: inventory-srv.json, group: dev, namespaceId: dc776061-c7a5-4b75-8a26-07cc04d085f3.
